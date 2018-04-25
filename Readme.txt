@@ -9,7 +9,7 @@ Created a program in C which takes a 24-bit bitmap image specified by the user a
     - resized and duplicated with separate color channels, 
     - and flipped vertically and mirrored horizontally.
 
-Test images to use, provided in folder, were given by the instructor.
+Test images to use, provided in this repository, were given by the instructor.
 
 Input requirements: 
     1. Files located in same folder as program.
