@@ -15,3 +15,5 @@ Input requirements:
     1. Files located in same folder as program.
     2. File name entered by user does not include extension.
     3. Image size entered by user is in the form "width height", in pixels, and is the true size.
+
+Tested program in 32-bit Linux "Cinnamon" OS.
